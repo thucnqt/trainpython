@@ -16,3 +16,6 @@ dttime1 = <viết code của em ở đây>
 
 # Xuất 3 giá trị đã tính ra màn hình
 <viết code của em ở đây>
+
+# Xuất kiểu (type) của 3 biến trên ra màn hình
+<viết code của em ở đây>
